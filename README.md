@@ -1,2 +1,2 @@
 # wab
-Webové aplikace beckend
+Webové aplikace backend
