@@ -1,5 +1,5 @@
 # wab
 Webové aplikace backend
 ## Hello world service
-- used project manager [POP]()
+- used project manager [PDM]()
 - rest framework [Fast API]()
